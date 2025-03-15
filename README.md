@@ -25,6 +25,8 @@
 ## Автор
 Розроблено користувачем [custybeam](https://github.com/custybeam).
 
+
+
 ![screen1](https://github.com/user-attachments/assets/5ec16b58-2456-4280-814f-2efc2da5170b)
 ![screen2](https://github.com/user-attachments/assets/c95da79e-22b4-4d72-8d54-edbad28d0607)
 ![screen3](https://github.com/user-attachments/assets/97cf56ac-b13f-4647-ac06-32cfb506d25b)
